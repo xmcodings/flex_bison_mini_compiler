@@ -1,0 +1,39 @@
+mainprog test; // mainporg ID SEMICOLON
+
+/* declarations*/
+int a;
+float b;
+
+/* subprogram_declarations */
+function func (aa, bb, cc, dd : float) : int;
+int c;
+int b;
+
+begin
+print(3+1)
+end
+
+/* subprogram_declarations */
+procedure proc (af, fd, ad : float; as, ads: int);
+float b;
+int[10] f;
+
+begin
+print(af + as)
+end
+
+procedure proc (af, fd, ad : float; as, ads: int);
+float b;
+int[10] f;
+
+begin
+print(af + as)
+end
+
+/* compound_statement */
+begin
+proc(3,3,3,4,4)
+end
+
+
+
