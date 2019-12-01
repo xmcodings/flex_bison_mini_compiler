@@ -62,6 +62,8 @@ Whitespace [\t\ ]|{Comment}
 {Whitespace} {}
 {CL} {lineno++;}
 
+. {return STRANGE;}
+
 %%
 
 int yywrap(){
