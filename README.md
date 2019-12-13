@@ -7,7 +7,7 @@ consists of 2 main files
 *others can be created with 2 files above
 
 
-## this was a univ. assignment for Programming Languages Course at Chungang Univ., Seoul
+## this was a univ. assignment for Programming Languages Course at Chung-Ang Univ., Seoul
 
 ### copyright of the assignment to prof. Kim Mu Cheol, CAU 
 
